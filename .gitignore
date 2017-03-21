@@ -29,3 +29,8 @@ sysinfo.txt
 *.apk
 *.unitypackage
 HexagonStudy/Library/
+HexagonStudy/Temp/ProcessJobs/b342521e2a32d744fef7f588b769e0e5.clust
+HexagonStudy/Temp/ProcessJobs/b4e5b16d434656c41f8f761b6afac9b5.clust
+HexagonStudy/Temp/
+HexagonStudy/Assets/PostProcessing/Runtime/Components/MotionBlurComponent.cs
+HexagonStudy/Assets/PostProcessing/
